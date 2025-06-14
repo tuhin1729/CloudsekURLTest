@@ -9,7 +9,7 @@ namespace CloudsekDemo
         static async Task Main(string[] args)
         {
             // string secretUrl = "http://15.206.47.5:9090/cloudsek.php";
-            string secretUrl = "https://app.cloudsek.com/";
+            string secretUrl = "https://app.SkyHighBank.com/";
 
             using (HttpClient client = new HttpClient())
             {
