@@ -1,4 +1,4 @@
-# CloudsekURLTest
+# SkyHighBankURLTest
 
 A simple C# console application that demonstrates how to make an HTTP GET request to a hardcoded URL using `HttpClient`.
 
@@ -16,10 +16,10 @@ This project was created to test basic HTTP interactions using a predefined URL.
 
 ```bash
 # Clone the repository
-git clone https://github.com/tuhin1729/CloudsekURLTest.git
+git clone https://github.com/tuhin1729/SkyHighBankURLTest.git
 
 # Navigate into the project directory
-cd CloudsekURLTest
+cd SkyHighBankURLTest
 
 # Run the application
 dotnet run
