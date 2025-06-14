@@ -16,7 +16,7 @@ This project was created to test basic HTTP interactions using a predefined URL.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CloudsekUrlTest.git
+git clone https://github.com/tuhin1729/CloudsekUrlTest.git
 
 # Navigate into the project directory
 cd CloudsekUrlTest
