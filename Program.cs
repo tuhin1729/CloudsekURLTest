@@ -8,7 +8,7 @@ namespace CloudsekDemo
     {
         static async Task Main(string[] args)
         {
-            string secretUrl = "http://15.206.47.5:9090/cloudsek.php?secret=removed";
+            string secretUrl = "https://app.cloudsek.com/";
 
             using (HttpClient client = new HttpClient())
             {
